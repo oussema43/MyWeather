@@ -1,4 +1,4 @@
-# MyWeather
+# skyfriend
 
 Atmosphere — a modern, lightweight Progressive Web App that shows current weather and a 5-day forecast using the Open-Meteo APIs.
 
@@ -19,6 +19,10 @@ python -m http.server 8000
 ```
 
 2. Or open `index.html` directly in your browser (some PWA/service-worker features require serving over HTTP).
+
+Live demo
+
+Visit the live demo: https://skyfriend.netlify.app/
 
 Project structure
 - `index.html` — main app page
